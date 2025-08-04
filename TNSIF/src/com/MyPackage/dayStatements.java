@@ -9,6 +9,22 @@ public class dayStatements {
 			System.out.println("Sorry!!! you cant vote");
 		}
 
+		
+		
+		int a=10,b=12,c=14;
+		if(a>b) {
+			if(a>c) {
+				System.out.println("a is grater");
+			}else {
+				System.out.println("c is greater");
+			}
+		}else {
+			if(b>c) {
+				System.out.println("b is grater");
+			}else {
+				System.out.println("c is greater");
+			}
+		}
  }
 
 }
