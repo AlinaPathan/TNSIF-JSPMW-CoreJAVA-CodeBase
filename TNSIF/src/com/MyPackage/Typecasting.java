@@ -3,7 +3,7 @@ package com.MyPackage;
 //type casting
 
 
-public class MySecondProgram {
+public class Typecasting {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
